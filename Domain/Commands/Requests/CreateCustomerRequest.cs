@@ -1,6 +1,9 @@
+using MediatR;
+using CQRS.Domain.Commands.Responses;
+
 namespace CQRS.Domain.Commands.Requests;
 
-public class CreateCustomerRequest
+public class CreateCustomerRequest : IRequest<CreateCustomerResponse>
 {
 
     public CreateCustomerRequest(string Name, string Email)

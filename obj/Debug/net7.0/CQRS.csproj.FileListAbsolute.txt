@@ -31,3 +31,6 @@ C:\Study\Backend\CQRS\obj\Debug\net7.0\refint\CQRS.dll
 C:\Study\Backend\CQRS\obj\Debug\net7.0\CQRS.pdb
 C:\Study\Backend\CQRS\obj\Debug\net7.0\CQRS.genruntimeconfig.cache
 C:\Study\Backend\CQRS\obj\Debug\net7.0\ref\CQRS.dll
+C:\Study\Backend\CQRS\bin\Debug\net7.0\MediatR.dll
+C:\Study\Backend\CQRS\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Study\Backend\CQRS\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
